@@ -1,4 +1,3 @@
-# PythonProjects
 #Quiz_Project
 For this you need the following:
 1. Python 2.7
@@ -10,11 +9,3 @@ For this you need the following:
 After executing the program you can select the file from the list provided and number of words to take quiz.
 It displays number of wrong words and ask you whether to store them in a file or not. 
 It asks you the name of file and stores the wrong words in it for future use.
-
-
-#iGoole Project
-For this you neew Urllib module in python
-
-In this any number of objects can be created.
-The distances can be calculated with any modes like driving.
-Tours can be compared and can be cycled number of times. 
