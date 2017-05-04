@@ -5,7 +5,7 @@
 Document retrieval is the task of finding documents that meet the search criteria input by user.
 This program is a simple document retrival engine.
 The file "ap_docs.txt" contains old newswire articles.
-Each article is differ by "<NEW DOCUMENT>" token.
+Each article is differ by "NEW DOCUMENT" token.
 This program gives you two options to search for any word present in the document where it returns all the article numbers which has the word and another one displays a particular article if you enter number.
 
 
@@ -21,6 +21,12 @@ After executing the program you can select the file from the list provided and n
 It displays number of wrong words and ask you whether to store them in a file or not. 
 It asks you the name of file and stores the wrong words in it for future use.
 
+#SnowMan_SnowWomen
+
+For this you need "turtle" module.
+This program contains number of classes like line, rectangle, circle, etc.
+This uses inheritance concepts.
+This program outputs a beautiful drawing of Snow Man and Snow Women.
 
 #iGoole Project
 For this you neew Urllib module in python
